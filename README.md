@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Google Cloud .
 - 👯 I’m willing to collaborate on startups projects and research projects.
 - 📫 How to reach me: mainakchakraborty92@gmail.com.
-- 😄 Pronouns: He/Him.
+- 😄 Past time Activities: Classical music and books
 <a href="https://www.linkedin.com/in/mainak001/">
   <img align="left" alt="Mainak's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
