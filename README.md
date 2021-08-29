@@ -19,13 +19,6 @@
 <br/>
 
 
-</div>
-</div>
-</div>
-<div align="center">
-<img hight="100" width="1000" alt="GIF" align="center" src="https://github.com/Mainak1792/Mainak1792/blob/main/Assets/giphy%203.gif">
-</div>
-
 
 <p align="center"><samp>
 Check out my repos ⬇️  
