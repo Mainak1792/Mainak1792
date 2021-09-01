@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on an open-source web-course on Signal Processing and Machine Learning.
 - 🌱 I’m currently learning Google Cloud .
-- 👯 I’m willing to collaborate on startups projects and research projects.
+- 👯 I’m open to work on startup and research projects.
 - 📫 How to reach me: mainakchakraborty92@gmail.com.
 - 😄 Past time Activities: Classical music and books
 <a href="https://www.linkedin.com/in/mainak001/">
