@@ -1,12 +1,5 @@
 # About ME 💬 :
- I'm Mainak Chakraborty. I love working on Learning Problems. I also write about Python, Machine Learning, Signal Processing and Deep Learning. 
- I work with start-ups to build scalable Machine Learning Solutions. 
-
-- 🔭 I’m currently working on an open-source web-course on Signal Processing and Machine Learning.
-- 🌱 I’m currently learning Google Cloud .
-- 👯 I’m open to work on startup and research projects.
-- 📫 How to reach me: mainakchakraborty92@gmail.com.
-- 😄 Past time Activities: Classical music and books
+ I'm Mainak Chakraborty.
 <a href="https://www.linkedin.com/in/mainak001/">
   <img align="left" alt="Mainak's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
