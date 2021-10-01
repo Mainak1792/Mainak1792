@@ -8,6 +8,13 @@
 <a href="https://mainak1996.medium.com/">
   <img align="left" alt="Mainak's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
+ <a href="https://twitter.com/mainak_1996">
+  <img align="left" alt="Mainak's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
+ </a>
+ <a href="https://www.kaggle.com/mainakml">
+  <img align="left" alt="Mainak's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />
+</a>
   <br/>
 <br/>
 
