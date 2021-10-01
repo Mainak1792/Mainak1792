@@ -1,5 +1,11 @@
-# About ME 💬 :
- I'm Mainak Chakraborty.
+### Hi, I'm Mainak Chakraborty 👋
+
+I love to contribute to open source projects. 
+
+- 🔭 I’m currently working on a deep learning project.
+- 🌱 I’m currently learning Google Cloud.
+- 👯 I’m willing to collaborate on research projects.
+
 <a href="https://www.linkedin.com/in/mainak001/">
   <img align="left" alt="Mainak's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,6 +24,7 @@
   <br/>
 <br/>
 
+![Visitor Count](https://profile-counter.glitch.me/{101}/count.svg)
 
 
 <p align="center"><samp>
