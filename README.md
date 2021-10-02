@@ -24,8 +24,6 @@ I love to contribute to open source projects.
   <br/>
 <br/>
 
-![Visitor Count](https://profile-counter.glitch.me/{101}/count.svg)
-
 
 <p align="center"><samp>
 Check out my repos ⬇️  
