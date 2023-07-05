@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
+
 ### Hi, I'm Mainak Chakraborty 👋
 
 I love to contribute to open source projects. 
